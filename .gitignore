@@ -9,3 +9,7 @@ semgrep.sarif
 __pycache__/
 .pytest_cache/
 *.pyc
+
+# TP16 - artefactos locales de Trivy
+manifests-rendered-*.yaml
+trivy-*.txt
